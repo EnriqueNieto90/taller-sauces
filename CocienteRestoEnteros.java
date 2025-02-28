@@ -9,7 +9,7 @@ public class CocienteRestoEnteros {
 		
 		Scanner teclado= new Scanner(System.in);
 		
-		Syste.out.println("Introduzca dividendo: ");
+		System.out.println("Introduzca dividendo: ");
 		dividendo= teclado.nextInt();
 		
 		
